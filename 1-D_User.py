@@ -11,8 +11,8 @@ for i in range (row):
         a.append(col_val)
 
     matrix.append(a)
-arr = np.array(matrix
-)
+arr = np.array(matrix)
+
 for i in range(row):
     for j in range (col):
         print(arr[i][j] , end=" ")
