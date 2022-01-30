@@ -20,5 +20,7 @@ arr_range=np.arange(n1,(n2+1))
 
 print(f"Final Array Ranged is {arr_range}")
 
+#Array between 0 & 1
+
 arr_3=np.random.rand(9).reshape(3,3)
 print(arr_3)
